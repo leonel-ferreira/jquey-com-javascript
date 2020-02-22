@@ -1,0 +1,645 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"ma",
+				"margin-left\tproperty"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"m",
+				"margin-left\tproperty"
+			],
+			[
+				"f",
+				"flex-end\tjustify-content"
+			],
+			[
+				"pa",
+				"padding-left\tproperty"
+			],
+			[
+				"bor",
+				"border-color\tproperty"
+			],
+			[
+				"paddin",
+				"padding-left\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"padd",
+				"padding-left\tproperty"
+			],
+			[
+				"p",
+				"padding-right\tproperty"
+			],
+			[
+				"i",
+				"italic\tfont-style"
+			],
+			[
+				"s",
+				"space-between\tjustify-content"
+			],
+			[
+				"img",
+				"image"
+			],
+			[
+				"marg",
+				"margin-right\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"padding",
+				"padding\tproperty"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"margi",
+				"margin-left\tproperty"
+			],
+			[
+				"margin-",
+				"margin-left\tproperty"
+			],
+			[
+				"n",
+				"número"
+			],
+			[
+				"btn",
+				"btn2"
+			],
+			[
+				"c",
+				"campo1"
+			],
+			[
+				"tudo",
+				"tudoPronto"
+			],
+			[
+				"li",
+				"link3"
+			],
+			[
+				"mi",
+				"min-width\tproperty"
+			],
+			[
+				"back",
+				"background-size\tproperty"
+			],
+			[
+				"bac",
+				"background-image\tproperty"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"border",
+				"border-bottom\tproperty"
+			],
+			[
+				"a",
+				"assets"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"fon",
+				"font-weight\tproperty"
+			],
+			[
+				"lista",
+				"listahtml"
+			],
+			[
+				"ca",
+				"campo1"
+			],
+			[
+				"l",
+				"listahtml"
+			],
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"t",
+				"target\tAttr"
+			],
+			[
+				"au",
+				"autofocus\tAttr"
+			],
+			[
+				"b",
+				"bolder\tfont-weight"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"an",
+				"animation-delay\tproperty"
+			],
+			[
+				"border-b",
+				"border-bottom-right-radius\tproperty"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"d",
+				"display\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"tex",
+				"text-transform\tproperty"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"v",
+				"video\tTag"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "caixa\n\tindex\n\t\t>id\n\t\t>data\n\t\t>usuarios\n\t\t>valor\n\t\t>tipo\n\t\t>descricao\n\tform\n\t\t>data\n\t\t>usuarios\n\t\t>valor\n\t\t>tipo\n\t\t>descricao\n\n\napi\t\n\tindex\n\t\t>id\n\t\t>data\n\t\t>url\n\t\t>inicio\n\t\t>fim\n\t\t>tempo\n\t\t>resultado\n\tform\n\t\t>data\n\t\t>url\n\t\t>inicio\n\t\t>fim\n\t\t>tempo\n\t\t>resultado\n\n\t\n\nSite\n\n\tindex\n\t\t>id\n\t\t>url\n\t\t>usuario\n\n\tform\n\t\t>id\n\t\t>url\n\t\t>usuario\n\t\t",
+			"file": "/C/Users/Adimin/Downloads/implementacoes (1).php",
+			"file_size": 655,
+			"file_write_time": 132268233323513435,
+			"settings":
+			{
+				"buffer_size": 333,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Adimin/AppData/Local/Temp/fz3temp-2/index 3.php",
+			"settings":
+			{
+				"buffer_size": 2393,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Adimin/AppData/Local/Temp/fz3temp-2/form.php",
+			"settings":
+			{
+				"buffer_size": 5245,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Adimin/AppData/Local/Temp/fz3temp-2/form 2.php",
+		"/C/Users/Adimin/AppData/Local/Temp/fz3temp-2/index 4.php",
+		"/C/Users/Adimin/AppData/Local/Temp/fz3temp-2/index 3.php",
+		"/C/Users/Adimin/AppData/Local/Temp/fz3temp-2/form.php",
+		"/C/Users/Adimin/Downloads/implementacoes.php",
+		"/C/Users/Adimin/AppData/Local/Temp/fz3temp-2/index 2.php",
+		"/C/Users/Adimin/Desktop/modulos/api/index.php",
+		"/C/Users/Adimin/Desktop/modulos/sites/index.php",
+		"/C/Users/Adimin/Desktop/modulos/aplicativos/index.php",
+		"/C/Users/Adimin/Desktop/modulos/comissoes/index.php",
+		"/C/Users/Adimin/Desktop/modulos/configuraçoes/index.php",
+		"/C/Users/Adimin/Desktop/modulos/resultados/index.php",
+		"/C/Users/Adimin/Desktop/modulos/caixa/index.php",
+		"/C/Users/Adimin/Desktop/modulos/clientes/index.php",
+		"/C/Users/Adimin/AppData/Local/Temp/fz3temp-2/index.php",
+		"/C/Users/Adimin/Desktop/modulos/usuarios/form.php",
+		"/C/Users/Adimin/AppData/Local/Temp/fz3temp-2/form_grupos.php",
+		"/C/Users/Adimin/Desktop/jogos/index.html",
+		"/C/Users/Adimin/Desktop/modulos/bilhestes/form.php",
+		"/C/Users/Adimin/Desktop/modulos/bilhestes/index.php",
+		"/C/wamp/www/estudojquery/script.js",
+		"/C/wamp/www/estudojquery/index.html",
+		"/C/Users/Adimin/Desktop/teste easyui/script.js",
+		"/C/Users/Adimin/Desktop/teste easyui/index.html",
+		"/C/Users/Adimin/Desktop/jogos/estilo.css",
+		"/C/Users/Adimin/AppData/Local/Temp/fz3temp-2/theme.html",
+		"/C/Users/Adimin/AppData/Local/Temp/fz3temp-2/admin.php",
+		"/C/Users/Adimin/AppData/Local/Temp/fz3temp-2/xoops_version.php",
+		"/C/Users/Adimin/AppData/Local/Temp/fz3temp-2/menu.php",
+		"/C/Users/Adimin/AppData/Local/Temp/fz3temp-2/backend.php",
+		"/C/Users/Adimin/AppData/Local/Temp/fz3temp-3/xoops_version.php",
+		"/C/Users/Adimin/Desktop/jogos/src/themes/rosa/easyui.css",
+		"/C/Users/Adimin/AppData/Local/Temp/fz3temp-3/index.php",
+		"/C/Users/Adimin/AppData/Local/Temp/fz3temp-3/admin.php",
+		"/C/Users/Adimin/AppData/Local/Temp/fz3temp-3/admin 2.php",
+		"/C/wamp/www/estudogit/.gitignore",
+		"/C/wamp/www/estudogit/senhas.txt",
+		"/C/wamp/www/estudogit/banco_dados.sql",
+		"/C/wamp/www/estudogit/README.md",
+		"/C/wamp/www/estudogit/style.css",
+		"/C/wamp/www/estudogit/index.html",
+		"/C/wamp/www/estudojquery/teste.html",
+		"/C/Users/Adimin/Desktop/jogos/script.js",
+		"/C/wamp/www/jogos/index.html",
+		"/C/wamp/www/jogos/estilo.css",
+		"/C/wamp/www/jogos/jogos.html",
+		"/C/wamp/www/bootstrap/index.html",
+		"/C/Users/Adimin/Desktop/cavalos.jpg",
+		"/C/Users/Adimin/Desktop/teste easyui/testeleonel.html",
+		"/C/Users/Adimin/Desktop/teste easyui/teste.html",
+		"/C/Users/Adimin/Desktop/teste easyui/novo.html",
+		"/C/Users/Adimin/Desktop/teste easyui/estilo.css",
+		"/C/Users/Adimin/Desktop/teste easyui/style.css",
+		"/C/Users/Adimin/AppData/Local/Temp/fz3temp-2/funcoes.php",
+		"/C/Users/Adimin/Desktop/teste easyui/teste.php",
+		"/C/Users/Adimin/Downloads/Controle de Jogos - Boleiros BR.html",
+		"/C/wamp/www/java/script.js",
+		"/C/wamp/www/java/index.html",
+		"/C/Users/Adimin/Desktop/projetojava/script.js",
+		"/C/Users/Adimin/Desktop/projetojava/style.css",
+		"/C/Users/Adimin/Desktop/projetojava/index.html",
+		"/C/Users/Adimin/Desktop/projetojava/teste.html",
+		"/C/wamp/www/estudojquery/js/script.js",
+		"/C/wamp/www/estudojquery/js/aula5.js",
+		"/C/Users/Adimin/Desktop/jquery/script.js",
+		"/C/Users/Adimin/Desktop/jquery/index.html",
+		"/C/Users/Adimin/Desktop/jquery/jQuery v3.4.1.min.js",
+		"/C/Users/Adimin/Desktop/java/script.js",
+		"/C/Users/Adimin/Desktop/java/index.html",
+		"/C/Users/Adimin/Desktop/portal/assets/js/script.js",
+		"/C/Users/Adimin/Desktop/portal/assets/css/style.css",
+		"/C/Users/Adimin/Desktop/portal/index.html",
+		"/C/Users/Adimin/Desktop/responsivo2/index.html",
+		"/C/Users/Adimin/Desktop/portal/.gitignore",
+		"/C/Users/Adimin/Desktop/portal/senhas.txt",
+		"/C/Users/Adimin/Desktop/portal/style.css",
+		"/C/Users/Adimin/Desktop/portal/README.md",
+		"/C/Users/Adimin/Desktop/responsivo2/README.md",
+		"/C/Users/Adimin/Desktop/responsivo2/.gitignore",
+		"/C/Users/Adimin/Desktop/responsivo2/style.css",
+		"/C/Users/Adimin/Desktop/responsivo2/exe.txt",
+		"/C/Users/Adimin/Desktop/responsivo2/exem.sql",
+		"/C/Users/Adimin/Desktop/responsivo2/READM",
+		"/C/Users/Adimin/.ssh/id_rsa.pub",
+		"/C/Users/Adimin/Desktop/responsivo/README.md",
+		"/C/Users/Adimin/Desktop/responsivo/style.css",
+		"/C/Users/Adimin/Desktop/responsivo/index.html",
+		"/C/Users/Adimin/Desktop/sombra/RADME.md",
+		"/C/Users/Adimin/Desktop/sombra/script.js",
+		"/C/Users/Adimin/Desktop/sombra/index.html",
+		"/C/Users/Adimin/Desktop/sombra/style.css",
+		"/C/Users/Adimin/Desktop/animação/style.css",
+		"/C/Users/Adimin/Desktop/animação/index.html",
+		"/C/Users/Adimin/Desktop/animação/RADME.md",
+		"/C/Users/Adimin/Desktop/degrade/README.md",
+		"/C/Users/Adimin/Desktop/degrade/degrade.html",
+		"/C/Users/Adimin/Desktop/degrade/degrade.css",
+		"/C/Users/Adimin/Desktop/pastagit/index.html",
+		"/C/Users/Adimin/Desktop/pastagit/README.md",
+		"/C/Users/Adimin/Desktop/html recomeço dos estudos/teste.css",
+		"/C/Users/Adimin/Desktop/html recomeço dos estudos/script.js",
+		"/C/Users/Adimin/Desktop/html recomeço dos estudos/java.html",
+		"/C/Users/Adimin/Desktop/html recomeço dos estudos/teste.html",
+		"/C/Users/Adimin/Desktop/html recomeço dos estudos/responsivo.html",
+		"/C/Users/Adimin/Desktop/html recomeço dos estudos/index.html",
+		"/C/Users/Adimin/Desktop/html recomeço dos estudos/responsivo.css",
+		"/C/Users/Adimin/Desktop/html recomeço dos estudos/style.css",
+		"/C/Users/Adimin/Desktop/html recomeço dos estudos/minhapagina.html",
+		"/C/Users/Adimin/Desktop/html recomeço dos estudos/boanoite.html",
+		"/C/Users/Adimin/Desktop/html recomeço dos estudos/link.html",
+		"/C/Users/Adimin/Desktop/index.html"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"[config]",
+			"[dados]",
+			"<a href=\"javascript:;\" class=\"layout-button-left\"></a>",
+			"<div data-options=\"region:'west',title:'West',split:true\" style=\"width: 245px; height: 294px;\" title=\"\" class=\"panel-body layout-body\" id=\"\"></div>",
+			"<a class=\"nav-link\" href=\"regras\">\n                            <i class=\"fa fa-info-circle\"></i> \n                            REGRAS\n                        </a>",
+			"<div class=\"panel-title\">Nested Panel</div>",
+			"<span class=\"l-btn-text\">Add</span>",
+			"https://www.jeasyui.com/easyui/",
+			"<div class=\"widget\">\n\t\t\t\t\t<div class=\"widget_titulo\">SOCIAL</div>\n\t\t\t\t\t<div class=\"widget_conteudo\">\n\t\t\t\t\t\t<a href=\"\"><img src=\"assets/images/facebook.jpg\" width=\"35px\" height=\"35px\" border=\"0\"></a>\n\t\t\t\t\t\t<a href=\"\"><img src=\"assets/images/youtube.jpg\" width=\"35px\" height=\"35px\" border=\"0\"></a>\n\t\t\t\t\t\t<a href=\"\"><img src=\"assets/images/googleplus.jpg\" width=\"35px\" height=\"35px\" border=\"0\"></a>\n\t\t\t\t\t\t<a href=\"\"><img src=\"assets/images/twitter.jpg\" width=\"35px\" height=\"35px\" border=\"0\"></a>\n\t\t\t\t\t\t<a href=\"\"><img src=\"assets/images/rss.jpg\" width=\"35px\" height=\"35px\" border=\"0\"></a>\n\t\t\t\t\t</div>\t\t\n\t\t\t\t</div>",
+			";\n",
+			"0"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"src/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Adimin/Downloads/implementacoes (1).php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 333,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								260,
+								260
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 138.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Adimin/AppData/Local/Temp/fz3temp-2/index 3.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2393,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 483.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Adimin/AppData/Local/Temp/fz3temp-2/form.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5245,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 897.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 57.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 204.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
